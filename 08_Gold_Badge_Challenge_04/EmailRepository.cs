@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _01_Value_Types
+namespace _08_Gold_Badge_Challenge_04
 {
-    public class Class1
+    class EmailRepository
     {
     }
 }
